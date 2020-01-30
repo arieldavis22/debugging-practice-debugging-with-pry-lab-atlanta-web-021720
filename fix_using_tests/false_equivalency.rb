@@ -17,7 +17,7 @@ def selection(num)
      "HAM HAM HAM IN MY TUMMY"
   end
 
-  pry
+  binding.pry
 end
 
 def runner
